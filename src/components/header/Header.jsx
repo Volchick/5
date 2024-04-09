@@ -8,7 +8,7 @@ export const Header = () => {
             <div>Service for monitoring and destroying asteroids which came dangerously close to the Earth</div>
         </div>
         <div>
-            <Link to={"/asteroids" }>Asteroids</Link>
+            <Link to={"/asteroids" }>Asteroids </Link>
             <Link to={"/destroyment"}>Destroyment</Link>
         </div>
     </div>
